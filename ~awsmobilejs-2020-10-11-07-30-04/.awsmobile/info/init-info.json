@@ -1,0 +1,22 @@
+{
+	"projectPath": "/Users/kyle_mccurley/Documents/PullUp",
+	"projectInfo": {
+		"ProjectName": "PullUp",
+		"ProjectPath": "/Users/kyle_mccurley/Documents/PullUp",
+		"InitializationTime": "",
+		"LastConfigurationTime": "",
+		"LastNPMInstallTime": "",
+		"FrontendLastBuildTime": "",
+		"LastPublishTime": "",
+		"BackendLastSyncTime": "",
+		"BackendLastBuildTime": "",
+		"BackendLastPushTime": "",
+		"BackendProjectID": "",
+		"BackendProjectName": "",
+		"BackendProjectConsoleUrl": "",
+		"BackendProjectCreationTime": "",
+		"BackendProjectLastUpdatedTime": ""
+	},
+	"initialStage": "clean-slate",
+	"strategy": "create"
+}
